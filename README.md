@@ -36,7 +36,7 @@
 ###
 
 <br clear="both">
-
+![Snake animation](https://github.com/{{NoobCoderIsSed}}/{{NoobCoderIsSed}}/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
