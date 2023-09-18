@@ -40,6 +40,11 @@
 
 ####
 
-[![Mazbha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoobCoderIsSed)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+ [![Mazbha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoobCoderIsSed)](https://github.com/anuraghazra/github-readme-stats)
+</div
+
+
 
 
