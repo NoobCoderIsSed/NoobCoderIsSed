@@ -5,6 +5,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<div align="center">
+
+ [![Mazbha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoobCoderIsSed)](https://github.com/anuraghazra/github-readme-stats)
+</div
 
 ###
 
@@ -40,10 +44,7 @@
 
 ####
 
-<div align="center">
 
- [![Mazbha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoobCoderIsSed)](https://github.com/anuraghazra/github-readme-stats)
-</div
 
 
 
